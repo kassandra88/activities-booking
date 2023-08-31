@@ -1,0 +1,17 @@
+{
+  "bracketSpacing": true,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "semi": false,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "endOfLine": "auto",
+  "overrides": [
+    {
+      "files": ["*.yaml", "*.yml"],
+      "options": {
+        "singleQuote": false
+      }
+    }
+  ]
+}

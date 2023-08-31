@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.ant-picker {
+  width: 100%;
+}
+
+.submit-btn {
+  margin-top: 4px;
+  width: 140px;
+}
+
+.ant-card {
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+}
+
+.ant-card {
+  min-height: 155px;
+}
